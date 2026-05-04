@@ -56,7 +56,7 @@
 ## 競賽訓練
 
 1. 因才網資安課程有教 CTF，可作為基礎訓練，詳見  
-   [教育部因才網「資通安全實務」課程學習路徑](https://docs.google.com/document/u/2/d/18Rupd9RqG2i1Ts1OzQtBuXj0bUAwQvXPJ-5UXoODZbo/edit)  
+   [教育部因才網「資通安全實務」課程學習路徑](https://github.com/cs20101-cshs/dp/blob/main/it_security_course_in_adl.md)  
 2. 申請國家高速網路與計算中心雲端資安攻防平臺（簡稱[CDX](https://cdx.nchc.org.tw/)）作為學生練習平臺，避免干擾學校教學與行政網路運作。  
 3. 從高中資安教學資源與推廣中心（ISIP）的 [CTF靶機](https://ctf.isip-hs.org/)開始訓練，上手後打 [picoCTF](https://picoctf.org/)（純英文，但可利用 AI 翻譯），練到一定程度再投入相關競賽。 
 4. 要求學生**開設 GitHub**，記錄學習筆記與解題思路，除可輔助學習，尚可供營隊甄選乃至於特殊選才備審資料之用。  
