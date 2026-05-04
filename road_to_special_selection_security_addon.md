@@ -32,7 +32,7 @@
    - 證照難度不算高，基本難度約略等同熟讀數位科技概論，進階題目可搭配 iPAS 一起準備，至不濟也有考古題或考照資料  
    - 牌價每張 4200，很貴，要問代理商（碁峰）看有沒有學生優惠價  
 4. 考照準備詳見  
-   [iPAS資訊安全工程師準備指南](https://docs.google.com/document/u/2/d/1ij0tuz2NbbwrlH7Ppa9vxoJAM-HbhtcWQdoxTAxEyTM/edit)  
+   [iPAS資訊安全工程師準備指南](https://github.com/cs20101-cshs/dp/blob/main/ipas_security_learning_guide.md)
    
 
 ## 競賽路線
