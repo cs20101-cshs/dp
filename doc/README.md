@@ -6,4 +6,5 @@
   
 ## 學生自學
 - [Markdown 簡介](./markdown_intro.md)
+- [程式設計自我鍛鍊與競賽入門指南](./programming_self_training_guide.md)
 - []
