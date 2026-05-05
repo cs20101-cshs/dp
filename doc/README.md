@@ -7,4 +7,4 @@
 ## 學生自學
 - [Markdown 簡介](./markdown_intro.md)
 - [程式設計自我鍛鍊與競賽入門指南](./programming_self_training_guide.md)
-- []
+- [iPAS 資訊安全工程師 準備指南](./ipas_security_learning_guide.md)
