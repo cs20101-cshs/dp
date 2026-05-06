@@ -2,7 +2,7 @@
 
 ## 資訊安全技術概論
 **下列何者「不」是微軟網路芳鄰常見使用 Port?**  
-(A) 137 (B) 139 ==(C) 123== (D) 445
+(A) 137 (B) 139 ***(C) 123*** (D) 445
 
 網路上的芳鄰使用 port:  
 - UDP 137, 138 -> NetBIOS Name & Datagram
@@ -18,7 +18,7 @@ request.getParameter("id") + "'";
 (A) `id = 0 OR 1`  
 (B) `custID = 1 or 1`  
 (C) `'1'='1'`  
-==(D) `' or '1'='1`==  
+***(D) `' or '1'='1`***  
 
 SQL最後會長成：
 ```SQL
@@ -32,7 +32,7 @@ SELECT * FROM accounts WHERE custID='' or '1'='1'
 
 ---
 **關於密碼潑灑(Password Spraying),下列敘述何者正確?**  
-(A) 用單一弱密碼,嘗試登入所有帳號  
+***(A) 用單一弱密碼,嘗試登入所有帳號***  
 (B) 蒐集常見的密碼,放入字典,嘗試登入系統  
 (C) 利用外洩的帳號與密碼組合,嘗試登入系統  
 (D) 使用所有可能密碼組合,嘗試登入系統  
@@ -43,10 +43,10 @@ SELECT * FROM accounts WHERE custID='' or '1'='1'
 
 ---
 **一般在進行資安日誌分析時,若想分析 Linux 系統中使用者的登入歷史紀錄,應蒐集下列何種檔案?**  
-(A) `/var/log/messages`
-(B) `/etc/login.defs`
-(C) `/var/log/secure`
-(D) `/var/log/dmesg`
+(A) `/var/log/messages`  
+(B) `/etc/login.defs`  
+***(C) `/var/log/secure`***  
+(D) `/var/log/dmesg`  
 
 - `/var/log/wtmp` 成功登入歷史，搭配 last
 - `/var/log/btmp` 失敗登入紀錄，搭配 lastb
@@ -66,7 +66,7 @@ SELECT * FROM accounts WHERE custID='' or '1'='1'
 (A) 是識別風險來源、事件、發生的原因,與可能產生的後果  
 (B) 是組織進行風險評鑑、識別、分析的整體流程  
 (C) 是理解風險本質並且決定風險等級的流程  
-(D) 是比較風險分析結果與風險準則來決定風險或嚴重程度是否為可接受的流程  
+***(D) 是比較風險分析結果與風險準則來決定風險或嚴重程度是否為可接受的流程***  
 
 (A) 風險識別 Risk Identification  
 (B) 風險評鑑 Risk Assessment 的整體流程  
@@ -79,7 +79,7 @@ SELECT * FROM accounts WHERE custID='' or '1'='1'
 
 ---
 **在進行營運持續規劃時,若評估發現公司資料遺失之最大可接受程度為 10 分鐘內,應考慮下列何者?**  
-(A) 恢復點目標 (Recovery Point Objective, RPO)  
+***(A) 恢復點目標 (Recovery Point Objective, RPO)***  
 (B) 恢復時間目標 (Recovery Time Objective, RTO)  
 (C) 工作恢復時間 (Work Recovery Time, WRT)  
 (D) 最大可容忍中斷時間 (Maximum Tolerable Period of Disruption, MTPD)  
