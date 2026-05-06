@@ -25,7 +25,7 @@ SQL最後會長成：
 SELECT * FROM accounts WHERE custID='使用者輸入的 id'
 ```
 輸入(D)之後，代入變成：
-```
+```SQL
 SELECT * FROM accounts WHERE custID='' or '1'='1'
 ```
 看到 `'1'='1'`，資料就全部倒出來了
