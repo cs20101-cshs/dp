@@ -4,10 +4,10 @@
 **下列何者「不」是微軟網路芳鄰常見使用 Port?**  
 (A) 137 (B) 139 (C) 123 (D) 445
 
-網路上的芳鄰使用 port:
-UDP 137, 138 -> NetBIOS Name & Datagram
-TCP 139 -> NetBIOS over TCP/IP
-TCP 445 -> 直接託管 SMB，Windows 2000 以後使用
+網路上的芳鄰使用 port:  
+- UDP 137, 138 -> NetBIOS Name & Datagram
+- TCP 139 -> NetBIOS over TCP/IP
+- TCP 445 -> 直接託管 SMB，Windows 2000 以後使用
 
 ---
 **下列程式碼片段存在安全瑕疵,請問下列何者可達成 SQL Injection 攻擊?**
