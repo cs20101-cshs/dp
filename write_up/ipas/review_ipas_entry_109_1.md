@@ -13,7 +13,7 @@
 - 看到「語音與數據皆 IP 化」或 `All-IP`，先想到 `4G / LTE`。
 
 ---
-**Intel X86 作業系統之核心模式（Kernel Mode），被設計於中央處理器（CPU）的何種特權等級中執行？**
+**Intel X86 作業系統之核心模式（Kernel Mode），被設計於中央處理器（CPU）的何種特權等級中執行？**  
 (A) Ring 3 (B) Ring 2 (C) Ring 1 ***(D) Ring 0***  
 
 關鍵判斷：  
