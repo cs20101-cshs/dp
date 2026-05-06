@@ -18,7 +18,7 @@ request.getParameter("id") + "'";
 (A) `id = 0 OR 1`  
 (B) `custID = 1 or 1`  
 (C) `'1'='1'`  
-(D) `' or '1'='1`  
+==(D) `' or '1'='1`==  
 
 SQL最後會長成：
 ```SQL
