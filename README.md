@@ -6,4 +6,4 @@
 ## repo 內容
 - `doc/`：囉哩叭唆的教學文件，純用 Markdown 撰寫
 - `pdf/`：不能用 Markdown 寫好的東西，就乖乖用 Word 寫，存成 pdf
-- `write_up/`：實作紀錄、考古題復盤、CTF 解題、錯題檢討
+- `write_up/`：實作紀錄、iPAS考古題錯題檢討、CTF 解題
