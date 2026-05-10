@@ -82,7 +82,7 @@
 ![repo with readme](../img/repo_with_readme.png)
 
 ## 新增 / 上傳檔案
-1. 之後你就可以使用 `Add file` 按鈕來新增 / 上傳檔案。既然是放自己的作品，當然是以上傳為主，以下步驟以上傳教學為主。
+1. 之後你就可以使用 `Add file` 按鈕來新增 / 上傳檔案。既然是放自己的作品，當然是以上傳為主，以下步驟以上傳教學為例。
 2. 點選 `Add file`，選擇 `Upload files` 按下去，進入上傳畫面：
 
 ![upload files](../img/upload_files.png)
