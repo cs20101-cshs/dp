@@ -25,11 +25,13 @@
 > [!WARNING]
 >如果你只是把檔案丟上 GitHub，卻沒有 `README.md`，那它只是比較高級的亂放雲端硬碟。
 
+---
 ## 註冊與登入
 1. 連往 <https://github.com>
 2. 點選右上角或畫面中間的 `Sign up`
 3. 選擇 `Continue with Google` 按鈕，用學校 Google 帳號登入即可。
 
+---
 ## 建立第一個儲存庫（repository）
 1. 登入後，點選畫面左側 `Create repository` 按鈕後，如下圖：
 
@@ -51,6 +53,7 @@
     ```
 5. 拉到最下方，按右下角 `Create repository` 按鈕，就建好了。
 
+---
 ## 建立 README.md
 1. 建好的 repo 長這樣，別被英文嚇到。我們準備開始加內容。
 
@@ -81,6 +84,7 @@
 
 ![repo with readme](../img/repo_with_readme.png)
 
+---
 ## 新增 / 上傳檔案
 1. 之後你就可以使用 `Add file` 按鈕來新增 / 上傳檔案。既然是放自己的作品，當然是以上傳為主，以下步驟以上傳教學為例。
 2. 點選 `Add file`，選擇 `Upload files` 按下去，進入上傳畫面：
@@ -95,6 +99,7 @@
 
 ![repo with files](../img/repo_with_files.png)
 
+---
 ## 搬移檔案到適當的資料夾
 1. 所有檔案塞到根目錄也不是辦法，所以一開始就要養成整理的好習慣。
 2. 以下以 `aaa.py` 為例，來說明如何建立資料夾並搬移檔案。
