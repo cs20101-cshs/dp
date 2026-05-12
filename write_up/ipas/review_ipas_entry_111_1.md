@@ -62,7 +62,7 @@
 - `聯邦標準／密碼模組` → `FIPS`
 
 ---
-**「封包來源端 IP 與目的端 IP 相同的攻擊。」屬於下列何種攻擊方法？**
+**「封包來源端 IP 與目的端 IP 相同的攻擊。」屬於下列何種攻擊方法？**  
 (A) Smurf Attack ***(B) Land Attack*** (C) UDP Flood Attack (D) ICMP Flood Attack  
 
 關鍵判斷：  
