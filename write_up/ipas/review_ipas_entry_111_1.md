@@ -108,7 +108,7 @@
 另外，實務上簽章通常是對資料雜湊後的摘要進行簽章；然而內政部 FAQ 說，透過自然人憑證進行簽章時，送入雜湊前的資料長度沒有限制。
 
 ---
-**一般而言，公開公鑰會透過憑證管理中心發行公開憑證來傳遞，對於仍在有效期內，卻因為某些因素造成憑證廢止的情形，可以透過下列何項協定來查詢？**
+**一般而言，公開公鑰會透過憑證管理中心發行公開憑證來傳遞，對於仍在有效期內，卻因為某些因素造成憑證廢止的情形，可以透過下列何項協定來查詢？**  
 ***(A) Online Certificate Status Protocol（OCSP）***  
 (B) Online Certificate Register Protocol（OCRP）  
 (C) Online Certificate Revoke Protocol（OCRP）  
