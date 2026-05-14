@@ -175,8 +175,8 @@
 ---
 **關於 WPA（Wi-Fi Protected Access），下列敘述何者「不」正確？**  
 (A) 初始向量（Initialization Vector，IV）長度：48 位元  
-(B) WPA 支援 TKIP（Temporal Key Integrity Protocol）加密方式 　
-(C) 封包驗證方式：CRC（Cyclic Redundancy Check）　 
+(B) WPA 支援 TKIP（Temporal Key Integrity Protocol）加密方式  
+(C) 封包驗證方式：CRC（Cyclic Redundancy Check）  
 ***(D) 加密方法：3DES***  
 
 關鍵判斷：  
