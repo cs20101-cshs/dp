@@ -2,6 +2,7 @@
 這裡放 iPAS 資訊安全工程師歷屆考古題錯題檢討。
 
 ## 初級
+- [113-2 初級 錯題檢討](review_ipas_entry_113_2.md)
 - [113-1 初級 錯題檢討](review_ipas_entry_113_1.md)
 - [112-2 初級 錯題檢討](review_ipas_entry_112_2.md)
 - [112-1 初級 錯題檢討](review_ipas_entry_112_1.md)
