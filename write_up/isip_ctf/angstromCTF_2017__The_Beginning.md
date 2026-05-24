@@ -1,4 +1,4 @@
-# Crypto 101
+# Crypto101
 ## angstromCTF 2017: The Beginning
 
 ## 題目資訊
