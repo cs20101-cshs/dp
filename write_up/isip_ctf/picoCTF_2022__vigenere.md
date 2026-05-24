@@ -1,4 +1,4 @@
-# Crypto 101
+# Crypto101
 ## picoCTF 2022: vigenere
 
 ## 題目資訊
