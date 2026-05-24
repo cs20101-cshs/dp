@@ -1,4 +1,4 @@
-# Crypto 101
+# Crypto101
 ## EKOPARTY CTF 2015: SCYTCRYPTO
 
 ## 題目資訊
