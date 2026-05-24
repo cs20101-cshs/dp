@@ -3,4 +3,4 @@
 
 ## 分類
 - `ipas/`：iPAS 資訊安全工程師考古題與錯題檢討
-- `isip_ctf`：高中資安教學資源與推廣中心（ISIP）CTF 平台題庫解題 write-up 教學示範
+- `isip_ctf/`：高中資安教學資源與推廣中心（ISIP）CTF 平台題庫解題 write-up 教學示範
