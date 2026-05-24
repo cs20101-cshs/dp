@@ -1,4 +1,4 @@
-# Crypto 101
+# Crypto101
 ## ABCTF 2016: ceasar-salad-10
 
 ## 題目資訊
