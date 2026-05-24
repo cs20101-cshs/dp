@@ -30,5 +30,6 @@
 - Crypto101
     - [ABCTF 2016: ceasar-salad-10](./ABCTF_2016__ceasar-salad-10.md)
     - [angstromCTF 2017: The Beginning](./angstromCTF_2017__The_Beginning.md)
+    - [RC3 CTF 2016: salad-100](./RC3_CTF_2016__salad-100.md)
     - [EKOPARTY CTF 2015: SCYTCRYPTO](EKOPARTY_CTF_2015__SCYTCRYPTO.md)
     - [picoCTF 2022: vigenere](picoCTF_2022__vigenere.md)
