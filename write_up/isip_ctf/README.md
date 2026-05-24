@@ -30,3 +30,4 @@
 - Crypto 101
     - [ABCTF 2016: ceasar-salad-10](./ABCTF_2016__ceasar-salad-10.md)
     - [angstromCTF 2017: The Beginning](./angstromCTF_2017__The_Beginning.md)
+    - [EKOPARTY CTF 2015: SCYTCRYPTO](EKOPARTY_CTF_2015__SCYTCRYPTO.md)
