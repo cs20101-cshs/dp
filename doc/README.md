@@ -4,6 +4,7 @@
 ## 教學取向
 - [特殊選才資安外加名額之路](./road_to_special_selection_security_addon.md)
 - [因才網「資通安全實務」課程學習路徑索引](./it_security_course_in_adl.md)
+- [資安、程式競賽 / 活動學年度行事簡曆暨備忘錄](./yearly_memo_for_cybersecurity_and_programming_activities.md)
   
 ## 學生自學
 - [GitHub 作為資訊學習歷程與作品集平台簡介](./simplest_github_intro.md) **優先必看！！！！！**
