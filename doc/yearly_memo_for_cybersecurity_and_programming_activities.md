@@ -219,7 +219,7 @@
 - [報名] iPAS 資訊安全工程師初級檢定（年度第二次）
     - <https://ipd.nat.gov.tw/ipas/certification/ISE/news>
     - 七月至九月中旬報名
-- [課程] AIS3 新型態資安實務暑期課程 pre-exam
+- [課程] AIS3 新型態資安實務暑期課程
     - <https://ais3.org/>
     - 四月中旬到五月初報名 pre-exam
     - 五月中進行線上 pre-exam
