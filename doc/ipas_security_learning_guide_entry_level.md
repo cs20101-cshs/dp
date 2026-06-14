@@ -17,12 +17,12 @@
     
 ## 學習資源整理
 
-- [官方學習資源頁面](https://ipd.nat.gov.tw/ipas/certification/ISE/learning-resources)
+- [官方學習資源頁面](https://ipd.nat.gov.tw/ipas/certification/ISE/learning-resources)  
 包括初級兩個科目的學習指引、最新一屆考古題、參考書目，和工研院課程網站的雲端課程。  
 雲端課程**免費**，連往工研院課程網站，要先註冊才能上課，但  
 **註冊完至少等一、兩天，帳號才會開通，開通後才能上課**
 
-- [林志祥 / iPAS資安證照討論區 Q&A - HackMD](https://hackmd.io/@hiiii/ryOzgaf0a)
+- [林志祥 / iPAS資安證照討論區 Q&A - HackMD](https://hackmd.io/@hiiii/ryOzgaf0a)  
 由資安證照分享達人林志祥整理，**內容極度詳盡**的討論區。
 綜整歷屆考古題、比官方更多的工研院免費課程連結、作者自製重點講述與歷屆試題檢討影片和相關 Q&A
 
@@ -67,9 +67,9 @@
 
 ### 考前 4 週
 1. 開始寫考古題，老師是一天寫一屆兩科，而且寫完立刻寫錯題檢討。嫌份量太重無法兼顧課業的話，可以減量為一天一科，錯題檢討後補。但最好 3 ~ 4 天就解決掉一屆。所以你最好是個人學習情況，提早到考前 6 週就順便開始。但還是**先把觀念筆記讀完**，否則連基本題都還會錯，考古題練習起來就會非常吃力。
-2. [初級歷屆考古題連結](https://drive.google.com/drive/folders/1cDoDnJhGu4uo4sSovNGDyM2J2uIxHRCX)
+2. [初級歷屆考古題連結](https://drive.google.com/drive/folders/1cDoDnJhGu4uo4sSovNGDyM2J2uIxHRCX)  
     老師是從舊寫到新，因為有些舊觀念後來被翻盤，所以**觀念有衝突的話以越新的題目解答為準**。
-3. 寫考古題一定要寫**錯題檢討**。老師對自己比較嚴格，四個選項只要一個不確定就當錯題來處置。寫錯題檢討的目的是要**彌補學習的不足**，以後不會再錯第二次。可以參考老師的格式：
+3. 寫考古題一定要寫**錯題檢討**。老師對自己比較嚴格，四個選項只要一個不確定就當錯題來處置。寫錯題檢討的目的是要**彌補學習的不足**，以後不會再錯第二次。可以參考老師的格式：  
     <https://github.com/cs20101-cshs/dp/tree/main/write_up/ipas>
 
 ### 考前 1 週
