@@ -11,4 +11,5 @@
 - [ISIP CTF 平台使用說明](./isip_ctf_intro.md) **資安訓練群組同學必看！！！**
 - [Markdown 簡介](./markdown_intro.md)
 - [程式設計自我鍛鍊與競賽入門指南](./programming_self_training_guide.md)
+- [PythAPCS123 實戰筆記](./PythAPCS123.md)
 - [iPAS 資訊安全工程師 準備指南 初級篇](./ipas_security_learning_guide_entry_level.md)
